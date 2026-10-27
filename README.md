@@ -1,6 +1,6 @@
 # 10,000 Sudoku Puzzles in 76 Milliseconds: Engineering a Fast Human-Strategy Solver
 
-**Manuscript status:** Submitted for publication; not yet published. No journal acceptance or DOI is claimed here.
+**Manuscript status:** Submitted to arXiv.
 
 
 [Read the full manuscript](https://stanchen.dev/r/sudoku-hps/)
