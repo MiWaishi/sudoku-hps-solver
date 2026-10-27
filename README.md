@@ -2,6 +2,10 @@
 
 **Manuscript status:** Submitted for publication; not yet published. No journal acceptance or DOI is claimed here.
 
+
+[Read the full manuscript](https://stanchen.dev/r/sudoku-hps/)
+
+
 ## Research background
 
 Human-strategy Sudoku solvers recognize logical patterns rather than guess values and backtrack. Their performance depends not only on the strategies they support, but also on how those strategies are implemented. Repeatedly scanning unchanged cells, reconstructing candidate information, and building deduction records that are never applied can make an otherwise simple solve loop expensive.
